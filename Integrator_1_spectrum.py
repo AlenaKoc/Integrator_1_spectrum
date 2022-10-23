@@ -1,4 +1,7 @@
-''' Written and tested by Kochubei Alena and Marianov Aleksei. 2021-2022'''
+# ---------------------------------------------------------------------------
+''' Written and tested by Alena Kochubei and Aleksei Marianov. 2021-2022'''
+# ---------------------------------------------------------------------------
+
 from importlib.resources import path
 import os
 import shutil
